@@ -13,7 +13,8 @@ header {
 .header {
     height: auto;
     width: auto;
-    background-image: url('../images/banner/banner3.png');
+    background-image: url('images/banner/banner3.png');
+    background-color:#005FAC;;
     background-size: content;
     text-align: right;
 
